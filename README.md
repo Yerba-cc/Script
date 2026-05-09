@@ -1,1 +1,1 @@
-# Get out skid cant skid this fucking loser dork retard bitch 
+# Get out skider you  cant skid this fucking loser dork retard bitch 
