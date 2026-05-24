@@ -1,2 +1,3 @@
 script_key = "Free" -- made by unknown.
-loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/b4e968f8674322ae67b133af4214ddd05d5dd569935ead051c298c3bbde591fd.lua"))()
+
+loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/ec5b0a484a10a26a343e44f24d4b7b4efd103b9036570f0f206272d40d64a650.lua"))()
