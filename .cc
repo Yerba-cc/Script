@@ -25,7 +25,7 @@ textLabel.TextScaled = true
 textLabel.Font = Enum.Font.GothamBold
 textLabel.Parent = frame
 
-local message = "This script is getting updated will be posted in 30 minutes dont worry its fast"
+local message = "This script is getting updated will be posted in 30 minutes dont worry its fast Mean while join The discord https://discord.gg/PX6YUsNQgx"
 
 for i = 5, 1, -1 do
 	textLabel.Text = message .. "\nClosing in " .. i .. "..."
